@@ -2,17 +2,17 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Alex Johnson
-  given: Alex
-  family: Johnson
+  display: Sujith Krishnamoorthy
+  given: Sujith
+  family: Krishnamoorthy
 postnominals: []
 status:
   icon: "💻"  # Emoji shown on avatar badge: 💻 developer, 🎨 designer, 🚀 startup, 🔬 researcher, 🎓 student
-role: Full-Stack Developer
-email: alex@example.com
+role: Software Engineer
+email: sujkrish19@gmail.com
 bio: |
-  Full-stack developer with 5+ years of experience building scalable web applications.
-  Passionate about modern JavaScript, cloud architecture, and creating delightful user experiences.
+  MCS graduate student at UC Irvine with 3+ years of industry experience designing and building scalable backend systems and Big Data pipelines across cloud platforms. 
+  Actively looking for Software Engineering Internships during 2026 Summer.
 
 affiliations:
   - name: Tech Corp
@@ -20,33 +20,44 @@ affiliations:
 
 links:
   - icon: at-symbol
-    url: mailto:alex@example.com
+    url: mailto:sujkrish19@gmail.com
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/alexjohnson
+    url: https://github.com/Sujith1910
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnson/
-  - icon: brands/x
-    url: https://x.com/alexjohnson
+    url: https://www.linkedin.com/in/sujkrish/
+  # - icon: brands/x
+  #   url: https://x.com/alexjohnson
 
 interests:
-  - Web Development
-  - Cloud Architecture
-  - Open Source
-  - Developer Experience
+  - Backend Development
+  - Big Data pipelines
+  - Data Engineering
 
 education:
-  - degree: B.S. Computer Science
-    institution: State University
-    start: 2015-09-01
-    end: 2019-05-31
-    summary: |
-      Focus on software engineering and distributed systems.
-      Senior project on distributed caching systems.
-    button:
-      text: View Project
-      url: https://github.com/alexjohnson/senior-project
-      icon: brands/github
+  - degree: Master of Computer Science
+    institution: University of California, Irvine
+    start: 2025-09-25
+    end: Present
+    # summary: |
+    #   Focus on software engineering and distributed systems.
+    #   Senior project on distributed caching systems.
+    # button:
+    #   text: View Project
+    #   url: https://github.com/alexjohnson/senior-project
+    #   icon: brands/github
+    
+  # - degree: B.S. Computer Science
+  #   institution: State University
+  #   start: 2015-09-01
+  #   end: 2019-05-31
+  #   summary: |
+  #     Focus on software engineering and distributed systems.
+  #     Senior project on distributed caching systems.
+  #   button:
+  #     text: View Project
+  #     url: https://github.com/alexjohnson/senior-project
+  #     icon: brands/github
 
 experience:
   - role: Senior Software Engineer
